@@ -13,7 +13,7 @@
 
 
 def main():
-    # my main function defined on line 15, contains my assignment source code and this comment.
+    # code goes here
 
     print()
     print("...EAN")
