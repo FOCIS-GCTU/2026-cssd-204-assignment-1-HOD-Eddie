@@ -1,7 +1,7 @@
 # File: initials.py
 # Description: A Python program that prints the initials of my name (Edmund Aduve)
 #             where I chose "N" as a stand in initial, using only the print() method and strings of my initials
-# Assignment Number: Assignment Number, 2
+# Assignment Number: Assignment Number, 1
 #
 # Name: Edmund Aduve
 # Student ID: 2425400319
